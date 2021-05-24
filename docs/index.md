@@ -338,8 +338,8 @@ In the beginning, I didn't want to publish this blogpost because the bug is not 
 
 This might be a good time to bring it up again -- [checkra1n](https://checkra.in) and [Corellium](https://twitter.com/corelliumhq) made iOS security research much more convenient and I want to give them the rightful shoutout and thank them for their great work. We can't say that on a lot of things, but these two projects are life-changers for the iOS security research community.
 
-Thanks a lot to [Luca](https://twitter.com/qwertyoruiopz) and [Siguza](https://twitter.com/s1guza) for reviewing.
-
 The poc is available [here](https://github.com/saaramar/iOS_memory_exhaustion_writeup).
+
+Thanks a lot to [Luca](https://twitter.com/qwertyoruiopz) and [Siguza](https://twitter.com/s1guza) for reviewing.
 
 Saar Amar
