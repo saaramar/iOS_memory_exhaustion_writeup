@@ -340,4 +340,6 @@ This might be a good time to bring it up again -- [checkra1n](https://checkra.in
 
 Thanks a lot to [Luca](https://twitter.com/qwertyoruiopz) and [Siguza](https://twitter.com/s1guza) for reviewing.
 
+The poc is available [here](https://github.com/saaramar/iOS_memory_exhaustion_writeup).
+
 Saar Amar
