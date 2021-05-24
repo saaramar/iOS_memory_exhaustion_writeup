@@ -332,7 +332,7 @@ Unsurprisingly, the same behavior exists in *AppleH10PearlCam*. Therefore, the P
 
 ## The fix
 
-I reported this to Apple on Jan 12, 2021, and the fix shipped at (May 24, 2021, in iOS 14.6). Please note this bug did NOT get a CVE, and it shouldn't. As I said before, this bug is not exploitable; therefore, it's not a security issue.
+I reported this to Apple on Jan 12, 2021, and the fix shipped at (May 24, 2021, in iOS [14.6](https://support.apple.com/en-us/HT212528)). Please note this bug did NOT get a CVE, and it shouldn't. As I said before, this bug is not exploitable; therefore, it's not a security issue.
 
 In the beginning, I didn't want to publish this blogpost because the bug is not exploitable (and as we all know, there are a lot of null derefs / DOS all over the iOS kernel). I decided to share it after all just because the story is pretty funny, and along the way, we can spread knowledge (which is fun and important).
 
